@@ -52,6 +52,7 @@ The following models were tested:
 However, due to the nature of financial time series, predicting the fund value 5 days ahead produced low performance.
 
 2. Classification Model
+
 A Random Forest Classifier was used to predict:
 * whether the fund price will go up (1) or down (0) after 5 days.
 
@@ -75,5 +76,7 @@ The notebook includes:
 
 
 # Notes
+This is a first draft of the project - new updates will be provided soon.
 The project is for educational and analytical purposes only.
 Predictions are not intended as financial advice.
+
