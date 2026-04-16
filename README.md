@@ -77,6 +77,8 @@ The notebook includes:
 
 # Notes
 This is a first draft of the project - new updates will be provided soon.
+
 The project is for educational and analytical purposes only.
+
 Predictions are not intended as financial advice.
 
