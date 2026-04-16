@@ -44,6 +44,7 @@ Rows with daily_return = 0 (weekend duplicates) were removed, except for the fir
 
 ## Machine Learning Models
 1. Predictive Models
+
 The following models were tested:
 - Linear Regression
 - Random Forest Regressor
